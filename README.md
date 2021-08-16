@@ -1,5 +1,5 @@
 *********************************************
-* BROWSER WHATSAPP AUTOIMATION USING PYTHON.
+BROWSER WHATSAPP AUTOIMATION USING PYTHON.
 ********************************************* 
 
 ## SOFTWARE USED 👇
@@ -19,9 +19,9 @@ https://chromedriver.chromium.org/downloads
 
 Here change the path for webdriver.chrome, give path where you have installed the webdriver.
 
-*STEP1-RUN THE CODE
-*STEP2- Browser will open and in that whatsapp web open automatically, QR code get displayed over your system screen scan it from your phone's whatsapp web.
-*STEP3- After execution of code. A message is displyed over your screen like 
+* STEP1-RUN THE CODE
+* STEP2- Browser will open and in that whatsapp web open automatically, QR code get displayed over your system screen scan it from your phone's whatsapp web.
+* STEP3- After execution of code. A message is displyed over your screen like 
 Do you want to send the message:(y/n) 
 Enter Name of your friend:
 enter message : 

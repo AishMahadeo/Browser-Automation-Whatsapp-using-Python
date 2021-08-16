@@ -1,20 +1,20 @@
 *********************************************
-* BROWSER WHATSAPP AUTOIMATION USING PYTHON.*
+* BROWSER WHATSAPP AUTOIMATION USING PYTHON.
 ********************************************* 
 
--->>SOFTWARE USED
+## SOFTWARE USED 👇
 Python(3.9) Idle/ Jupyter Notebook
 
--->> PRE-REQUISITE 
-INSTALL SELENIUM LIBRARY
+## PRE-REQUISITE 👇
+* INSTALL SELENIUM LIBRARY
 command-- pip install selenium
 
 INSTALL CHROME WEBDRIVER(you can install webdriver according to your browser )
 link to install(insatll webdriver with your suitable version of chrome)
 https://chromedriver.chromium.org/downloads
 
--->>STEPS TO RUN CODE
-##Do little bit changes in the code before running it on your system.
+## STEPS TO RUN CODE
+* Do little bit changes in the code before running it on your system.
 >>browser = webdriver.Chrome("C:/Users/Hrutik/Documents/PYTHON/chromedriver")
 here change the path for webdriver.chrome, give path where you have installed the webdriver.
 
